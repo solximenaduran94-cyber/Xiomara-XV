@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Invitacion de 15 Celeste",
+  "description": "Invitación digital elegante de 15 años ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
